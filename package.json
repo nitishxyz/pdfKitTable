@@ -1,0 +1,13 @@
+{
+  "name": "pdfKitTable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nitnk9/pdfKitTable",
+  "author": "Nitish Sharma",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "pdfkit": "^0.12.1"
+  },
+  "type": "module"
+}
